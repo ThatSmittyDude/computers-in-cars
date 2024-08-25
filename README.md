@@ -59,9 +59,8 @@ Wrapping it up
 We’ve learned how these automotive machines function in their environments. My question to the reader is this: What can we do to bring automotive tech further into the 21st century? After all, most of this was engineered in the early to mid-1990s. Is there a better way to ensure the safe, efficient operation of modern cars?
 
 All of these little gadgets throughout the vehicle require electricity. I've seen key-on draws of up to 29 amps. Yes, 29 amps. That is a lot of current running through a modern vehicle. Batteries are the weak point in this system. They often need to be charged or replaced due to the massive, consistent load placed on them. I personally think we should find a more efficient way to manage the electrical load on the vehicle. What do you think?
-by ThatSmittyDude
-ThatSmittyDude@outlook.com
-tiktok@that_smitty_dude
-youtube@that_smitty_dude
-discord@that_smitty_dude
-Reddt@that_smitty_dude_17
+\n by ThatSmittyDude
+\n ThatSmittyDude@outlook.com
+\n tiktok@that_smitty_dude
+\n youtube@that_smitty_dude
+\n discord@that_smitty_dude 
